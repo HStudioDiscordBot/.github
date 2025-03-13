@@ -21,7 +21,7 @@ Make the music listening experience better!
 - 1M Guild (-)
 
 ## Links
-- [Website](https://hstudio.hewkawar.xyz)
+- [Website](https://hstudiobot.com)
 - [Invite Bot](https://discord.com/oauth2/authorize?client_id=1105873690022924450)
 - [Support Server](https://discord.gg/GzTbuZHTEx)
 - [Github](https://github.com/HStudioDiscordBot)
