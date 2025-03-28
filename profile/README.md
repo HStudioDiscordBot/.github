@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img align="center" src="https://typograssy.deno.dev/api?text=HStudio%20Discord%20Bot%20Project%20&l0=none&l1=bdddff&l2=71a7fe&l3=398efe&l4=2465ff&speed=100&comment=&frame=none&bg=none" alt="HStudio Discord Bot Project" />
+  <img align="center" src="https://typograssy.deno.dev/api?text=HStudio&l0=none&l1=bdddff&l2=71a7fe&l3=398efe&l4=2465ff&speed=100&comment=&frame=none&bg=none" alt="HStudio Discord Bot Project" />
 </p>
 
 # HStudio Discord Bot
@@ -14,7 +14,7 @@ Make the music listening experience better!
 ## Progression
 - 1K Guild (19/10/2024)
 - 2K Guild (16/12/2024)
-- 5K Guild (-)
+- 5K Guild (26/3/2025)
 - 10K Guild (-)
 - 20K Guild (-)
 - 50K Guild (-)
